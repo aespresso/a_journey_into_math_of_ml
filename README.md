@@ -10,10 +10,10 @@ espresso数据萃取机
 https://zhuanlan.zhihu.com/c_1018534554512035840
    
    
-__目前的课程__(请点击, 指向对应repo):   
-[逻辑回归(一)-logit-odds-sigmoid函数-最大似然估计](https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/00_maximum_likelihood_estimationa_and_3d_visualization):      
-逻辑回归(二)-交叉熵与困惑度     
-逻辑回归(三)-梯度下降-偏导数-求导最小化-分类边界可视化   
-图解极大似然估计推导与3D可视化   
-
-汉语自然语言处理-从零解读碾压循环神经网络的transformer模型(一)
+__目前的课程__(请点击, 指向对应目录):   
+[图解极大似然估计推导与3D可视化](https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/00_maximum_likelihood_estimationa_and_3d_visualization)      
+[逻辑回归(一)-logit-odds-sigmoid函数-最大似然估计](https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/01_logistic_regression)        
+[逻辑回归(二)-交叉熵与困惑度](https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/01_logistic_regression)      
+[逻辑回归(三)-梯度下降-偏导数-求导最小化-分类边界可视化](https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/01_logistic_regression)   
+[机器学习之数学之旅-从零推导adaboost与3D可视化-特征选择-集体智能-集成学习-boosting](https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/02_adaboost)    
+[汉语自然语言处理-从零解读碾压循环神经网络的transformer模型(一)](https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/03_transformer_tutorial_1st_part)   
