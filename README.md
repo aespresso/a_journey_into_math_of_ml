@@ -10,8 +10,8 @@ espresso数据萃取机
 https://zhuanlan.zhihu.com/c_1018534554512035840
    
    
-__目前的课程__:   
-逻辑回归(一)-logit-odds-sigmoid函数-最大似然估计   
+__目前的课程__(请点击, 指向对应repo):   
+[逻辑回归(一)-logit-odds-sigmoid函数-最大似然估计](https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/00_maximum_likelihood_estimationa_and_3d_visualization):      
 逻辑回归(二)-交叉熵与困惑度     
 逻辑回归(三)-梯度下降-偏导数-求导最小化-分类边界可视化   
 图解极大似然估计推导与3D可视化   
