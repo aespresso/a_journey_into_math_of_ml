@@ -26,3 +26,5 @@ https://zhuanlan.zhihu.com/c_1018534554512035840
 | 视频讲解: [B站讲解](https://www.bilibili.com/video/av56033745/) / [youtube](https://www.youtube.com/watch?v=-rqGPD06Ifs&t=5s) |
 | 书面教程: [汉语自然语言处理-从零解读碾压循环神经网络的transformer模型(一)](https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/03_transformer_tutorial_1st_part) |   
 | 视频讲解: [B站讲解](https://www.bilibili.com/video/av58239477/) / [youtube](https://www.youtube.com/watch?v=wLKsaZWeuCM) |
+| 书面教程: [汉语自然语言处理-BERT的解读语言模型预训练与实践应用-transformer模型(二)](https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/04_transformer_tutorial_2nd_part) |   
+| 视频讲解: [B站讲解]() / [youtube]() |
