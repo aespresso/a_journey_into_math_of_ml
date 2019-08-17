@@ -12,4 +12,8 @@ BERT_tutorial文件夹内容为一个项目, 可以从pycharm里打开:
 链接:https://pan.baidu.com/s/1IbNWTcJDMWAC3JEs28pmnA  密码:jf5w
 你如果想重新训练情感分类模型, 需要把BERT模型放入BERT_tutorial文件夹根目录下的bert_state_dict文件夹内.   
 
-
+维基百科训练语料下载地址:   
+训练集:   
+链接:https://pan.baidu.com/s/1fXRlhhAPDdOJXGJhfgfpoQ  密码:u49e   
+测试集:   
+链接:https://pan.baidu.com/s/1Q_ccloyTMONURmodpzeJ4A  密码:4s9w   
