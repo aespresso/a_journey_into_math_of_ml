@@ -29,7 +29,7 @@ https://zhuanlan.zhihu.com/c_1018534554512035840
 | 视频讲解: [B站讲解](https://www.bilibili.com/video/av58239477/) / [youtube](https://www.youtube.com/watch?v=wLKsaZWeuCM) |
 | 书面教程: [汉语自然语言处理-BERT的解读语言模型预训练与实践应用-transformer模型(二)](https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/04_transformer_tutorial_2nd_part) |   
 | 视频讲解: [B站讲解](https://www.bilibili.com/video/av60168891/) / [youtube]() |
-| 书面教程: 汉语自然语言处理-HMM与命名实体识别NER-制作中 |   
-| 视频讲解: |
+| 书面教程: [汉语自然语言处理-隐马尔可夫模型命名实体识别NER-HMM-从零解读-概率图模型-生成模型](https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/05_NER_hidden_markov_model) |   
+| 视频讲解: [B站讲解](https://www.bilibili.com/video/av68032676/)|
 | 书面教程: 汉语自然语言处理-维特比算法-制作中 |   
 | 视频讲解: |
