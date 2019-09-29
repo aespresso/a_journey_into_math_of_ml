@@ -31,5 +31,5 @@ https://zhuanlan.zhihu.com/c_1018534554512035840
 | 视频讲解: [B站讲解](https://www.bilibili.com/video/av60168891/) / [youtube]() |
 | 书面教程: [汉语自然语言处理-隐马尔可夫模型命名实体识别NER-HMM-从零解读-概率图模型-生成模型](https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/05_NER_hidden_markov_model) |   
 | 视频讲解: [B站讲解](https://www.bilibili.com/video/av68032676/)|
-| 书面教程: 汉语自然语言处理-维特比算法-制作中 |   
-| 视频讲解: |
+| 书面教程: [汉语自然语言处理-维特比算法与NER](https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/05_NER_hidden_markov_model) |   
+| 视频讲解: [B站讲解](https://www.bilibili.com/video/av68907334/)|
